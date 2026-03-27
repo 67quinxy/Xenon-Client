@@ -1,0 +1,10 @@
+{
+  "chainLoader": null,
+  "libraries": [],
+  "fabricLoader": [],
+  "supportedPlatforms": [
+    "windows",
+    "linux",
+    "macos"
+  ]
+}
